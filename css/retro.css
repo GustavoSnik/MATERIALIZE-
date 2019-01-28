@@ -1,0 +1,19 @@
+body {
+ 	background-image: url("img/background/literature.jpg");
+    background-attachment: fixed;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+  }
+
+  .col s12 {
+  	color: white;
+  }
+
+  .container {
+  	color: white;
+  }
