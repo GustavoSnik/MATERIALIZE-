@@ -1,4 +1,17 @@
-body {
- 	background-image: url("img/background/literature.jpg");
- 
+
+body { background-color: transparent;
+  line-height: 2;
+
+}
+nav {background-image: url("img/background/literature.jpg");
+		background-attachment: fixed;
+		height: 300px;
+}
+.container {
+	  margin-bottom: 10px
+  		border: 1px solid #4CAF50;
+	width: 90%;
+	max height: 200
+}
+footer {margin-top: 25px
 }
